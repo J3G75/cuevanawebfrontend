@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosIntance=axios.create({
-   baseURL:'http://localhost:4000/' 
+   baseURL:'https://webcuevana.onrender.com' 
 });
 
 export{
